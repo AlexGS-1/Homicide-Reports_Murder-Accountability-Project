@@ -1,0 +1,311 @@
+,Victim Age,Perpetrator Age,Victim Sex,Victim Race,Perpetrator Sex,Perpetrator Race,State,Weapon,Murder Count
+4135,"(20, 30]","(20, 30]",Male,Black,Male,Black,Wisconsin,Firearm,5
+978,"(10, 20]","(10, 20]",Male,White,Male,White,Wisconsin,Knife,4
+3036,"(20, 30]","(10, 20]",Male,Black,Male,Black,Wisconsin,Firearm,4
+3451,"(20, 30]","(10, 20]",Male,White,Male,White,Wisconsin,Knife,4
+4137,"(20, 30]","(20, 30]",Male,Black,Male,Black,Wisconsin,Knife,3
+4759,"(20, 30]","(20, 30]",Male,White,Male,White,Wisconsin,Shotgun,3
+10396,"(40, 50]","(20, 30]",Male,White,Male,White,Wisconsin,Blunt Object,3
+10398,"(40, 50]","(20, 30]",Male,White,Male,White,Wisconsin,Knife,3
+7854,"(30, 40]","(20, 30]",Male,White,Male,White,West Virginia,Knife,3
+7850,"(30, 40]","(20, 30]",Male,White,Male,White,Washington,Rifle,9
+9683,"(40, 50]","(10, 20]",Male,White,Male,White,Washington,Knife,7
+10389,"(40, 50]","(20, 30]",Male,White,Male,White,Washington,Blunt Object,6
+972,"(10, 20]","(10, 20]",Male,White,Male,White,Washington,Knife,5
+4746,"(20, 30]","(20, 30]",Male,White,Male,White,Washington,Knife,5
+5586,"(20, 30]","(30, 40]",Male,White,Male,White,Washington,Knife,5
+1791,"(10, 20]","(20, 30]",Male,White,Male,White,Washington,Knife,4
+6879,"(30, 40]","(10, 20]",Male,White,Male,White,Washington,Knife,4
+8656,"(30, 40]","(30, 40]",Male,White,Male,White,Washington,Rifle,4
+973,"(10, 20]","(10, 20]",Male,White,Male,White,Washington,Rifle,3
+4124,"(20, 30]","(20, 30]",Male,Black,Male,Black,Virginia,Firearm,9
+629,"(10, 20]","(10, 20]",Male,Black,Male,Black,Virginia,Firearm,7
+1406,"(10, 20]","(20, 30]",Male,Black,Male,Black,Virginia,Firearm,6
+3027,"(20, 30]","(10, 20]",Male,Black,Male,Black,Virginia,Firearm,6
+3438,"(20, 30]","(10, 20]",Male,White,Male,White,Virginia,Knife,6
+4126,"(20, 30]","(20, 30]",Male,Black,Male,Black,Virginia,Knife,6
+7845,"(30, 40]","(20, 30]",Male,White,Male,White,Virginia,Knife,6
+4740,"(20, 30]","(20, 30]",Male,White,Male,White,Virginia,Knife,5
+6568,"(30, 40]","(10, 20]",Male,Black,Male,Black,Virginia,Firearm,5
+970,"(10, 20]","(10, 20]",Male,White,Male,White,Virginia,Knife,4
+4735,"(20, 30]","(20, 30]",Male,White,Male,White,Utah,Knife,3
+5575,"(20, 30]","(30, 40]",Male,White,Male,White,Utah,Knife,3
+10380,"(40, 50]","(20, 30]",Male,White,Male,White,Utah,Blunt Object,3
+4730,"(20, 30]","(20, 30]",Male,White,Male,White,Texas,Knife,63
+3429,"(20, 30]","(10, 20]",Male,White,Male,White,Texas,Knife,35
+4732,"(20, 30]","(20, 30]",Male,White,Male,White,Texas,Shotgun,29
+7836,"(30, 40]","(20, 30]",Male,White,Male,White,Texas,Knife,28
+1775,"(10, 20]","(20, 30]",Male,White,Male,White,Texas,Knife,23
+4728,"(20, 30]","(20, 30]",Male,White,Male,White,Texas,Firearm,23
+963,"(10, 20]","(10, 20]",Male,White,Male,White,Texas,Knife,22
+4731,"(20, 30]","(20, 30]",Male,White,Male,White,Texas,Rifle,22
+4727,"(20, 30]","(20, 30]",Male,White,Male,White,Texas,Blunt Object,21
+6870,"(30, 40]","(10, 20]",Male,White,Male,White,Texas,Knife,19
+4112,"(20, 30]","(20, 30]",Male,Black,Male,Black,Tennessee,Firearm,12
+4114,"(20, 30]","(20, 30]",Male,Black,Male,Black,Tennessee,Knife,7
+4724,"(20, 30]","(20, 30]",Male,White,Male,White,Tennessee,Knife,7
+5128,"(20, 30]","(30, 40]",Male,Black,Male,Black,Tennessee,Firearm,6
+3013,"(20, 30]","(10, 20]",Male,Black,Male,Black,Tennessee,Firearm,5
+7344,"(30, 40]","(20, 30]",Male,Black,Male,Black,Tennessee,Blunt Object,5
+7830,"(30, 40]","(20, 30]",Male,White,Male,White,Tennessee,Knife,5
+621,"(10, 20]","(10, 20]",Male,Black,Male,Black,Tennessee,Rifle,4
+622,"(10, 20]","(10, 20]",Male,Black,Male,Black,Tennessee,Shotgun,4
+4115,"(20, 30]","(20, 30]",Male,Black,Male,Black,Tennessee,Rifle,4
+4106,"(20, 30]","(20, 30]",Male,Black,Male,Black,South Carolina,Firearm,8
+4108,"(20, 30]","(20, 30]",Male,Black,Male,Black,South Carolina,Knife,7
+4109,"(20, 30]","(20, 30]",Male,Black,Male,Black,South Carolina,Shotgun,6
+7341,"(30, 40]","(20, 30]",Male,Black,Male,Black,South Carolina,Firearm,5
+3419,"(20, 30]","(10, 20]",Male,White,Male,White,South Carolina,Knife,4
+7343,"(30, 40]","(20, 30]",Male,Black,Male,Black,South Carolina,Knife,4
+12296,"(50, 60]","(20, 30]",Male,White,Male,White,South Carolina,Blunt Object,4
+3009,"(20, 30]","(10, 20]",Male,Black,Male,Black,South Carolina,Firearm,3
+4496,"(20, 30]","(20, 30]",Male,White,Male,Black,South Carolina,Blunt Object,3
+5785,"(20, 30]","(40, 50]",Male,Black,Male,Black,South Carolina,Knife,3
+4098,"(20, 30]","(20, 30]",Male,Black,Male,Black,Pennsylvania,Knife,16
+4711,"(20, 30]","(20, 30]",Male,White,Male,White,Pennsylvania,Knife,10
+4713,"(20, 30]","(20, 30]",Male,White,Male,White,Pennsylvania,Shotgun,10
+3414,"(20, 30]","(10, 20]",Male,White,Male,White,Pennsylvania,Knife,9
+5123,"(20, 30]","(30, 40]",Male,Black,Male,Black,Pennsylvania,Knife,9
+3005,"(20, 30]","(10, 20]",Male,Black,Male,Black,Pennsylvania,Knife,8
+11789,"(50, 60]","(10, 20]",Male,White,Male,White,Pennsylvania,Blunt Object,8
+7819,"(30, 40]","(20, 30]",Male,White,Male,White,Pennsylvania,Knife,7
+950,"(10, 20]","(10, 20]",Male,White,Male,White,Pennsylvania,Knife,6
+1390,"(10, 20]","(20, 30]",Male,Black,Male,Black,Pennsylvania,Knife,6
+3407,"(20, 30]","(10, 20]",Male,White,Male,White,Oregon,Knife,6
+4706,"(20, 30]","(20, 30]",Male,White,Male,White,Oregon,Knife,5
+4707,"(20, 30]","(20, 30]",Male,White,Male,White,Oregon,Rifle,4
+8610,"(30, 40]","(30, 40]",Male,White,Male,White,Oregon,Blunt Object,4
+10354,"(40, 50]","(20, 30]",Male,White,Male,White,Oregon,Blunt Object,4
+12651,"(50, 60]","(30, 40]",Male,White,Male,White,Oregon,Rifle,4
+1750,"(10, 20]","(20, 30]",Male,White,Male,White,Oregon,Knife,3
+6856,"(30, 40]","(10, 20]",Male,White,Male,White,Oregon,Knife,3
+5542,"(20, 30]","(30, 40]",Male,White,Male,White,Oklahoma,Shotgun,6
+7810,"(30, 40]","(20, 30]",Male,White,Male,White,Oklahoma,Knife,6
+10904,"(40, 50]","(30, 40]",Male,White,Male,White,Oklahoma,Rifle,6
+4695,"(20, 30]","(20, 30]",Male,White,Male,White,Oklahoma,Blunt Object,5
+4699,"(20, 30]","(20, 30]",Male,White,Male,White,Oklahoma,Knife,5
+7807,"(30, 40]","(20, 30]",Male,White,Male,White,Oklahoma,Blunt Object,5
+10350,"(40, 50]","(20, 30]",Male,White,Male,White,Oklahoma,Blunt Object,5
+1742,"(10, 20]","(20, 30]",Male,White,Male,White,Oklahoma,Blunt Object,4
+4701,"(20, 30]","(20, 30]",Male,White,Male,White,Oklahoma,Shotgun,4
+5857,"(20, 30]","(40, 50]",Male,Black,Male,White,Oklahoma,Shotgun,4
+4693,"(20, 30]","(20, 30]",Male,White,Male,White,Ohio,Knife,14
+4082,"(20, 30]","(20, 30]",Male,Black,Male,Black,Ohio,Firearm,8
+4085,"(20, 30]","(20, 30]",Male,Black,Male,Black,Ohio,Knife,8
+7324,"(30, 40]","(20, 30]",Male,Black,Male,Black,Ohio,Blunt Object,8
+3398,"(20, 30]","(10, 20]",Male,White,Male,White,Ohio,Knife,7
+4690,"(20, 30]","(20, 30]",Male,White,Male,White,Ohio,Blunt Object,7
+4694,"(20, 30]","(20, 30]",Male,White,Male,White,Ohio,Shotgun,7
+938,"(10, 20]","(10, 20]",Male,White,Male,White,Ohio,Blunt Object,6
+940,"(10, 20]","(10, 20]",Male,White,Male,White,Ohio,Knife,6
+2995,"(20, 30]","(10, 20]",Male,Black,Male,Black,Ohio,Firearm,6
+4078,"(20, 30]","(20, 30]",Male,Black,Male,Black,North Carolina,Knife,11
+4686,"(20, 30]","(20, 30]",Male,White,Male,White,North Carolina,Knife,11
+4080,"(20, 30]","(20, 30]",Male,Black,Male,Black,North Carolina,Shotgun,8
+4688,"(20, 30]","(20, 30]",Male,White,Male,White,North Carolina,Shotgun,6
+10614,"(40, 50]","(30, 40]",Male,Black,Male,Black,North Carolina,Blunt Object,6
+7795,"(30, 40]","(20, 30]",Male,White,Male,White,North Carolina,Blunt Object,5
+7797,"(30, 40]","(20, 30]",Male,White,Male,White,North Carolina,Knife,5
+7799,"(30, 40]","(20, 30]",Male,White,Male,White,North Carolina,Shotgun,5
+8598,"(30, 40]","(30, 40]",Male,White,Male,White,North Carolina,Rifle,4
+14806,"(80, 90]","(20, 30]",Female,White,Male,Black,North Carolina,Blunt Object,4
+4680,"(20, 30]","(20, 30]",Male,White,Male,White,New York,Knife,32
+4072,"(20, 30]","(20, 30]",Male,Black,Male,Black,New York,Knife,27
+5104,"(20, 30]","(30, 40]",Male,Black,Male,Black,New York,Knife,18
+931,"(10, 20]","(10, 20]",Male,White,Male,White,New York,Knife,17
+7317,"(30, 40]","(20, 30]",Male,Black,Male,Black,New York,Knife,17
+592,"(10, 20]","(10, 20]",Male,Black,Male,Black,New York,Knife,16
+3386,"(20, 30]","(10, 20]",Male,White,Male,White,New York,Knife,16
+1375,"(10, 20]","(20, 30]",Male,Black,Male,Black,New York,Knife,15
+2985,"(20, 30]","(10, 20]",Male,Black,Male,Black,New York,Knife,15
+5523,"(20, 30]","(30, 40]",Male,White,Male,White,New York,Knife,14
+3380,"(20, 30]","(10, 20]",Male,White,Male,White,New Mexico,Knife,10
+4671,"(20, 30]","(20, 30]",Male,White,Male,White,New Mexico,Firearm,5
+4673,"(20, 30]","(20, 30]",Male,White,Male,White,New Mexico,Knife,5
+5518,"(20, 30]","(30, 40]",Male,White,Male,White,New Mexico,Knife,5
+10332,"(40, 50]","(20, 30]",Male,White,Male,White,New Mexico,Blunt Object,5
+923,"(10, 20]","(10, 20]",Male,White,Male,White,New Mexico,Firearm,4
+925,"(10, 20]","(10, 20]",Male,White,Male,White,New Mexico,Knife,4
+926,"(10, 20]","(10, 20]",Male,White,Male,White,New Mexico,Rifle,4
+8590,"(30, 40]","(30, 40]",Male,White,Male,White,New Mexico,Rifle,4
+927,"(10, 20]","(10, 20]",Male,White,Male,White,New Mexico,Shotgun,3
+4667,"(20, 30]","(20, 30]",Male,White,Male,White,New Jersey,Knife,17
+4664,"(20, 30]","(20, 30]",Male,White,Male,White,New Jersey,Blunt Object,12
+921,"(10, 20]","(10, 20]",Male,White,Male,White,New Jersey,Knife,11
+587,"(10, 20]","(10, 20]",Male,Black,Male,Black,New Jersey,Knife,9
+4060,"(20, 30]","(20, 30]",Male,Black,Male,Black,New Jersey,Blunt Object,9
+4063,"(20, 30]","(20, 30]",Male,Black,Male,Black,New Jersey,Knife,9
+1723,"(10, 20]","(20, 30]",Male,White,Male,White,New Jersey,Knife,7
+7312,"(30, 40]","(20, 30]",Male,Black,Male,Black,New Jersey,Knife,7
+9987,"(40, 50]","(20, 30]",Male,Black,Male,Black,New Jersey,Blunt Object,7
+2976,"(20, 30]","(10, 20]",Male,Black,Male,Black,New Jersey,Blunt Object,6
+4656,"(20, 30]","(20, 30]",Male,White,Male,White,Nevada,Blunt Object,6
+4659,"(20, 30]","(20, 30]",Male,White,Male,White,Nevada,Knife,5
+916,"(10, 20]","(10, 20]",Male,White,Male,White,Nevada,Knife,4
+1718,"(10, 20]","(20, 30]",Male,White,Male,White,Nevada,Knife,4
+7774,"(30, 40]","(20, 30]",Male,White,Male,White,Nevada,Knife,4
+12632,"(50, 60]","(30, 40]",Male,White,Male,White,Nevada,Blunt Object,4
+5356,"(20, 30]","(30, 40]",Male,White,Male,Black,Nevada,Blunt Object,3
+5510,"(20, 30]","(30, 40]",Male,White,Male,White,Nevada,Knife,3
+6020,"(20, 30]","(40, 50]",Male,White,Male,White,Nevada,Knife,3
+9023,"(30, 40]","(40, 50]",Male,White,Male,White,Nevada,Shotgun,3
+913,"(10, 20]","(10, 20]",Male,White,Male,White,Nebraska,Knife,6
+4652,"(20, 30]","(20, 30]",Male,White,Male,White,Nebraska,Blunt Object,3
+4049,"(20, 30]","(20, 30]",Male,Black,Male,Black,Missouri,Firearm,9
+4646,"(20, 30]","(20, 30]",Male,White,Male,White,Missouri,Knife,7
+579,"(10, 20]","(10, 20]",Male,Black,Male,Black,Missouri,Firearm,6
+2967,"(20, 30]","(10, 20]",Male,Black,Male,Black,Missouri,Firearm,6
+4643,"(20, 30]","(20, 30]",Male,White,Male,White,Missouri,Blunt Object,5
+7301,"(30, 40]","(20, 30]",Male,Black,Male,Black,Missouri,Firearm,5
+4648,"(20, 30]","(20, 30]",Male,White,Male,White,Missouri,Shotgun,4
+8568,"(30, 40]","(30, 40]",Male,White,Male,White,Missouri,Firearm,4
+10320,"(40, 50]","(20, 30]",Male,White,Male,White,Missouri,Shotgun,4
+3757,"(20, 30]","(20, 30]",Female,White,Male,White,Missouri,Blunt Object,3
+4047,"(20, 30]","(20, 30]",Male,Black,Male,Black,Mississippi,Knife,5
+4044,"(20, 30]","(20, 30]",Male,Black,Male,Black,Mississippi,Blunt Object,4
+4215,"(20, 30]","(20, 30]",Male,Black,Male,White,Mississippi,Shotgun,3
+5084,"(20, 30]","(30, 40]",Male,Black,Male,Black,Mississippi,Blunt Object,3
+4636,"(20, 30]","(20, 30]",Male,White,Male,White,Minnesota,Blunt Object,6
+4638,"(20, 30]","(20, 30]",Male,White,Male,White,Minnesota,Knife,6
+3753,"(20, 30]","(20, 30]",Female,White,Male,White,Minnesota,Knife,3
+8414,"(30, 40]","(30, 40]",Male,White,Male,Black,Minnesota,Knife,3
+9536,"(40, 50]","(10, 20]",Male,White,Male,Black,Minnesota,Knife,3
+4037,"(20, 30]","(20, 30]",Male,Black,Male,Black,Michigan,Firearm,13
+4039,"(20, 30]","(20, 30]",Male,Black,Male,Black,Michigan,Knife,10
+4041,"(20, 30]","(20, 30]",Male,Black,Male,Black,Michigan,Shotgun,10
+7747,"(30, 40]","(20, 30]",Male,White,Male,White,Michigan,Blunt Object,10
+568,"(10, 20]","(10, 20]",Male,Black,Male,Black,Michigan,Firearm,9
+4040,"(20, 30]","(20, 30]",Male,Black,Male,Black,Michigan,Rifle,8
+571,"(10, 20]","(10, 20]",Male,Black,Male,Black,Michigan,Rifle,7
+2068,"(10, 20]","(30, 40]",Male,Black,Male,White,Michigan,Shotgun,7
+2958,"(20, 30]","(10, 20]",Male,Black,Male,Black,Michigan,Knife,7
+4633,"(20, 30]","(20, 30]",Male,White,Male,White,Michigan,Knife,7
+4628,"(20, 30]","(20, 30]",Male,White,Male,White,Massachusetts,Knife,14
+1703,"(10, 20]","(20, 30]",Male,White,Male,White,Massachusetts,Knife,8
+2954,"(20, 30]","(10, 20]",Male,Black,Male,Black,Massachusetts,Knife,6
+3217,"(20, 30]","(10, 20]",Male,White,Male,Black,Massachusetts,Knife,5
+7745,"(30, 40]","(20, 30]",Male,White,Male,White,Massachusetts,Knife,5
+10305,"(40, 50]","(20, 30]",Male,White,Male,White,Massachusetts,Knife,5
+565,"(10, 20]","(10, 20]",Male,Black,Male,Black,Massachusetts,Firearm,4
+896,"(10, 20]","(10, 20]",Male,White,Male,White,Massachusetts,Knife,4
+2952,"(20, 30]","(10, 20]",Male,Black,Male,Black,Massachusetts,Firearm,4
+4035,"(20, 30]","(20, 30]",Male,Black,Male,Black,Massachusetts,Knife,4
+4031,"(20, 30]","(20, 30]",Male,Black,Male,Black,Maryland,Knife,13
+5071,"(20, 30]","(30, 40]",Male,Black,Male,Black,Maryland,Knife,9
+7283,"(30, 40]","(20, 30]",Male,Black,Male,Black,Maryland,Knife,9
+562,"(10, 20]","(10, 20]",Male,Black,Male,Black,Maryland,Knife,6
+1345,"(10, 20]","(20, 30]",Male,Black,Male,Black,Maryland,Knife,6
+4032,"(20, 30]","(20, 30]",Male,Black,Male,Black,Maryland,Shotgun,6
+3346,"(20, 30]","(10, 20]",Male,White,Male,White,Maryland,Knife,5
+4621,"(20, 30]","(20, 30]",Male,White,Male,White,Maryland,Blunt Object,5
+6506,"(30, 40]","(10, 20]",Male,Black,Male,Black,Maryland,Knife,5
+1987,"(10, 20]","(30, 40]",Male,Black,Male,Black,Maryland,Knife,4
+4026,"(20, 30]","(20, 30]",Male,Black,Male,Black,Louisiana,Knife,15
+4024,"(20, 30]","(20, 30]",Male,Black,Male,Black,Louisiana,Firearm,9
+7279,"(30, 40]","(20, 30]",Male,Black,Male,Black,Louisiana,Knife,8
+2945,"(20, 30]","(10, 20]",Male,Black,Male,Black,Louisiana,Firearm,7
+4028,"(20, 30]","(20, 30]",Male,Black,Male,Black,Louisiana,Shotgun,7
+5066,"(20, 30]","(30, 40]",Male,Black,Male,Black,Louisiana,Knife,7
+4617,"(20, 30]","(20, 30]",Male,White,Male,White,Louisiana,Knife,6
+7277,"(30, 40]","(20, 30]",Male,Black,Male,Black,Louisiana,Firearm,6
+4613,"(20, 30]","(20, 30]",Male,White,Male,White,Louisiana,Blunt Object,5
+5473,"(20, 30]","(30, 40]",Male,White,Male,White,Louisiana,Knife,5
+8538,"(30, 40]","(30, 40]",Male,White,Male,White,Kentucky,Blunt Object,3
+4606,"(20, 30]","(20, 30]",Male,White,Male,White,Kansas,Knife,4
+4598,"(20, 30]","(20, 30]",Male,White,Male,White,Indiana,Knife,9
+7722,"(30, 40]","(20, 30]",Male,White,Male,White,Indiana,Knife,5
+4599,"(20, 30]","(20, 30]",Male,White,Male,White,Indiana,Rifle,4
+5452,"(20, 30]","(30, 40]",Male,White,Male,White,Indiana,Firearm,4
+8530,"(30, 40]","(30, 40]",Male,White,Male,White,Indiana,Knife,4
+546,"(10, 20]","(10, 20]",Male,Black,Male,Black,Indiana,Firearm,3
+874,"(10, 20]","(10, 20]",Male,White,Male,White,Indiana,Knife,3
+1980,"(10, 20]","(30, 40]",Male,Black,Male,Black,Indiana,Shotgun,3
+3328,"(20, 30]","(10, 20]",Male,White,Male,White,Indiana,Blunt Object,3
+4595,"(20, 30]","(20, 30]",Male,White,Male,White,Indiana,Blunt Object,3
+4592,"(20, 30]","(20, 30]",Male,White,Male,White,Illinois,Knife,17
+4005,"(20, 30]","(20, 30]",Male,Black,Male,Black,Illinois,Knife,11
+7263,"(30, 40]","(20, 30]",Male,Black,Male,Black,Illinois,Blunt Object,11
+4589,"(20, 30]","(20, 30]",Male,White,Male,White,Illinois,Blunt Object,10
+5056,"(20, 30]","(30, 40]",Male,Black,Male,Black,Illinois,Knife,10
+4002,"(20, 30]","(20, 30]",Male,Black,Male,Black,Illinois,Blunt Object,9
+3326,"(20, 30]","(10, 20]",Male,White,Male,White,Illinois,Knife,8
+541,"(10, 20]","(10, 20]",Male,Black,Male,Black,Illinois,Firearm,7
+868,"(10, 20]","(10, 20]",Male,White,Male,White,Illinois,Firearm,6
+4003,"(20, 30]","(20, 30]",Male,Black,Male,Black,Illinois,Firearm,6
+3826,"(20, 30]","(20, 30]",Male,Asian/Pacific Islander,Male,Asian/Pacific Islander,Hawaii,Blunt Object,6
+3828,"(20, 30]","(20, 30]",Male,Asian/Pacific Islander,Male,Asian/Pacific Islander,Hawaii,Knife,3
+8139,"(30, 40]","(30, 40]",Male,Black,Male,Black,Georgia,Knife,7
+3997,"(20, 30]","(20, 30]",Male,Black,Male,Black,Georgia,Knife,5
+3999,"(20, 30]","(20, 30]",Male,Black,Male,Black,Georgia,Shotgun,5
+5051,"(20, 30]","(30, 40]",Male,Black,Male,Black,Georgia,Knife,5
+539,"(10, 20]","(10, 20]",Male,Black,Male,Black,Georgia,Shotgun,4
+3993,"(20, 30]","(20, 30]",Male,Black,Male,Black,Georgia,Blunt Object,4
+1322,"(10, 20]","(20, 30]",Male,Black,Male,Black,Georgia,Knife,3
+2929,"(20, 30]","(10, 20]",Male,Black,Male,Black,Georgia,Knife,3
+3501,"(20, 30]","(20, 30]",Female,Black,Male,Black,Georgia,Knife,3
+4577,"(20, 30]","(20, 30]",Male,White,Male,White,Georgia,Blunt Object,3
+7702,"(30, 40]","(20, 30]",Male,White,Male,White,Florida,Knife,12
+3990,"(20, 30]","(20, 30]",Male,Black,Male,Black,Florida,Knife,11
+4572,"(20, 30]","(20, 30]",Male,White,Male,White,Florida,Firearm,11
+4574,"(20, 30]","(20, 30]",Male,White,Male,White,Florida,Knife,11
+4576,"(20, 30]","(20, 30]",Male,White,Male,White,Florida,Shotgun,11
+8510,"(30, 40]","(30, 40]",Male,White,Male,White,Florida,Knife,10
+4571,"(20, 30]","(20, 30]",Male,White,Male,White,Florida,Blunt Object,8
+1317,"(10, 20]","(20, 30]",Male,Black,Male,Black,Florida,Knife,6
+3309,"(20, 30]","(10, 20]",Male,White,Male,White,Florida,Blunt Object,6
+3992,"(20, 30]","(20, 30]",Male,Black,Male,Black,Florida,Shotgun,6
+3984,"(20, 30]","(20, 30]",Male,Black,Male,Black,District of Columbia,Knife,11
+8131,"(30, 40]","(30, 40]",Male,Black,Male,Black,District of Columbia,Knife,8
+529,"(10, 20]","(10, 20]",Male,Black,Male,Black,District of Columbia,Firearm,6
+2919,"(20, 30]","(10, 20]",Male,Black,Male,Black,District of Columbia,Firearm,6
+11045,"(40, 50]","(40, 50]",Male,Black,Male,Black,District of Columbia,Knife,6
+1314,"(10, 20]","(20, 30]",Male,Black,Male,Black,District of Columbia,Knife,5
+7250,"(30, 40]","(20, 30]",Male,Black,Male,Black,District of Columbia,Knife,5
+1311,"(10, 20]","(20, 30]",Male,Black,Male,Black,District of Columbia,Firearm,4
+5729,"(20, 30]","(40, 50]",Male,Black,Male,Black,District of Columbia,Knife,4
+8128,"(30, 40]","(30, 40]",Male,Black,Male,Black,District of Columbia,Blunt Object,4
+4568,"(20, 30]","(20, 30]",Male,White,Male,White,Connecticut,Knife,7
+3975,"(20, 30]","(20, 30]",Male,Black,Male,Black,Connecticut,Knife,4
+8502,"(30, 40]","(30, 40]",Male,White,Male,White,Connecticut,Knife,4
+4406,"(20, 30]","(20, 30]",Male,White,Male,Black,Connecticut,Blunt Object,3
+4563,"(20, 30]","(20, 30]",Male,White,Male,White,Colorado,Knife,10
+7692,"(30, 40]","(20, 30]",Male,White,Male,White,Colorado,Knife,9
+852,"(10, 20]","(10, 20]",Male,White,Male,White,Colorado,Knife,6
+4560,"(20, 30]","(20, 30]",Male,White,Male,White,Colorado,Blunt Object,5
+5424,"(20, 30]","(30, 40]",Male,White,Male,White,Colorado,Knife,5
+2180,"(10, 20]","(30, 40]",Male,White,Male,White,Colorado,Knife,4
+8496,"(30, 40]","(30, 40]",Male,White,Male,White,Colorado,Blunt Object,4
+8500,"(30, 40]","(30, 40]",Male,White,Male,White,Colorado,Shotgun,4
+1659,"(10, 20]","(20, 30]",Male,White,Male,White,Colorado,Knife,3
+3305,"(20, 30]","(10, 20]",Male,White,Male,White,Colorado,Knife,3
+4555,"(20, 30]","(20, 30]",Male,White,Male,White,California,Knife,84
+7686,"(30, 40]","(20, 30]",Male,White,Male,White,California,Knife,53
+5419,"(20, 30]","(30, 40]",Male,White,Male,White,California,Knife,45
+3298,"(20, 30]","(10, 20]",Male,White,Male,White,California,Knife,40
+847,"(10, 20]","(10, 20]",Male,White,Male,White,California,Knife,39
+4552,"(20, 30]","(20, 30]",Male,White,Male,White,California,Blunt Object,36
+8491,"(30, 40]","(30, 40]",Male,White,Male,White,California,Knife,36
+10244,"(40, 50]","(20, 30]",Male,White,Male,White,California,Knife,35
+7683,"(30, 40]","(20, 30]",Male,White,Male,White,California,Blunt Object,34
+1653,"(10, 20]","(20, 30]",Male,White,Male,White,California,Knife,31
+4551,"(20, 30]","(20, 30]",Male,White,Male,White,Arkansas,Knife,4
+3960,"(20, 30]","(20, 30]",Male,Black,Male,Black,Arkansas,Knife,3
+4546,"(20, 30]","(20, 30]",Male,White,Male,White,Arizona,Knife,18
+4547,"(20, 30]","(20, 30]",Male,White,Male,White,Arizona,Rifle,16
+840,"(10, 20]","(10, 20]",Male,White,Male,White,Arizona,Knife,11
+1643,"(10, 20]","(20, 30]",Male,White,Male,White,Arizona,Knife,11
+4542,"(20, 30]","(20, 30]",Male,White,Male,White,Arizona,Blunt Object,11
+3292,"(20, 30]","(10, 20]",Male,White,Male,White,Arizona,Knife,8
+10235,"(40, 50]","(20, 30]",Male,White,Male,White,Arizona,Blunt Object,8
+1644,"(10, 20]","(20, 30]",Male,White,Male,White,Arizona,Rifle,7
+3294,"(20, 30]","(10, 20]",Male,White,Male,White,Arizona,Shotgun,7
+8479,"(30, 40]","(30, 40]",Male,White,Male,White,Arizona,Knife,7
+4289,"(20, 30]","(20, 30]",Male,Native American/Alaska Native,Male,White,Alaska,Firearm,3
+3951,"(20, 30]","(20, 30]",Male,Black,Male,Black,Alabama,Knife,6
+4536,"(20, 30]","(20, 30]",Male,White,Male,White,Alabama,Knife,4
+5022,"(20, 30]","(30, 40]",Male,Black,Male,Black,Alabama,Knife,3
+5023,"(20, 30]","(30, 40]",Male,Black,Male,Black,Alabama,Shotgun,3
+7229,"(30, 40]","(20, 30]",Male,Black,Male,Black,Alabama,Shotgun,3
+8112,"(30, 40]","(30, 40]",Male,Black,Male,Black,Alabama,Knife,3
+10230,"(40, 50]","(20, 30]",Male,White,Male,White,Alabama,Blunt Object,3
+13238,"(60, 70]","(20, 30]",Female,Black,Male,Black,Alabama,Blunt Object,3
